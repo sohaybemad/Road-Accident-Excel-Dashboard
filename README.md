@@ -11,6 +11,3 @@ The Dashboard include informations about:
 * Casualties by Road Type: Show a comparison between the casualties categorized by different road types (highways, urban roads, rural roads).
 * Casualties by Road Surface: Show a comparison between the casualties based on road surface conditions (dry, wet, icy).
 * Casualties by Area and Time: Show the relationship between casualties by area/location (urban, rural) and time of day (day, night).
-
-
-Download the data from the next link: https://shorturl.at/Bij9T
