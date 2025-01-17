@@ -1,7 +1,8 @@
 # Road-Accident-Excel-Dashboard
 
-Building Dashboard using Road Accident for year 2021 and 2022 showing the next insights:
+Building Dashboard using Road Accident for year 2021 and 2022.
 
+The Dashboard include informations about:  
 * Total Casualties: Display the total number of casualties for the years 2021 and 2022.
 * Casualties by Accident Severity: Show the total number and percentage of casualties categorized by accident severity (fatal, serious, slight).
 * Casualties by Vehicle Type: Display the total number and percentage of casualties caused by the vehicle type that results in the highest casualties.
